@@ -25,4 +25,8 @@ For this project use data collected via http://insideairbnb.com/munich/ to bette
 
 There is 3 notebook available here focused on data retreival, data cleaning and exploratory data analysis.
 
+>Inside Airbnb is a mission driven activist project with the objective to:
+>Provide data that quantifies the impact of short-term rentals on housing and residential communities; and also provides a platform to support advocacy for policies to protect our >cities from the impacts of short-term rentals.
+> -- <cite>Inside Airbnb</cite>
+
 ## Results<a name="results"></a>
