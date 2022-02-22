@@ -19,7 +19,8 @@ For this project use data collected via http://insideairbnb.com/munich/ to bette
 1. How is the general price level for staying in Munich?
 2. What neighborhoods are the most expensive/cheapest?
 3. What are the main factors influencing the overall price level?
-4. tbd...
+4. Does AirBnB still serve their original purpose, meaning offering short-term accommodation for tourists? Or is the platform missused for overpaid long-term stays?
+5. ...
 
 >Inside Airbnb is a mission driven activist project with the objective to:
 >Provide data that quantifies the impact of short-term rentals on housing and residential communities; and also provides a platform to support advocacy for policies to protect our >cities from the impacts of short-term rentals.
@@ -30,3 +31,6 @@ For this project use data collected via http://insideairbnb.com/munich/ to bette
 There is a notebook available here focused on data retreival, data cleaning and exploratory data analysis.
 
 ## Results<a name="results"></a>
+
+## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
+<b>Packages</b>: Pandas, Matplotlib, Geomaps
