@@ -1,3 +1,4 @@
+# Staying in Munich: an AirBnB study
 
 ### Table of Contents
 
