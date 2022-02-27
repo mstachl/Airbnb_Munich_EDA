@@ -32,7 +32,7 @@ There is a notebook available here focused on data retreival, data cleaning and 
 ## Results<a name="results"></a>
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
-<b>Packages</b>: Pandas, Matplotlib, Geomaps, json
+<b>Packages</b>: Pandas, Matplotlib, GeoPandas, json
 
 I want to thank http://insideairbnb.com/munich/ for providing up-to-date scrapes of AirBnB listings for worldwide cities.
 I also want to thank http://opendatalab.de/projects/geojson-utilities/ for their efforts to provide access to geodata of Germany.
