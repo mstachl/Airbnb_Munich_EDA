@@ -34,6 +34,13 @@ There is a notebook available here focused on data retreival, data cleaning and 
 
 ## Results<a name="results"></a>
 
+- The average price per person per night is 38\\$. Typically hosts tend to ask for "rounded" prices (30\\$, 40\\$, 50\\$ etc.).
+- The most expensive areas in Munich seem to be Altstadt-Lehel (48\\$ on avg.), Ludwigsvorstadt-Isarvorstadt (44\\$), Maxvorstadt (41\\$) and Schwanthalerhöhe (40\\$).
+- Least expensive seem to be Sendling-Westpark, Aubing-Lochhausen and Feldmoching-Hasenbergl (30\\$).
+- Price per night seems to increase by ~2.8% in 2022, aligning well with inflation.
+- Stays are especially expensive during Oktoberfest (~160\\$ per day and accommodation from 17.09.-04.10.2022) and during the BAUMA (~164\\$ per day and accommodation from 23.10.-28.10.2022). BAUMA is the world's leading exposition for construction machinery.
+- Most offered amenities are Wifi, kitchen, smoke alarm and hair dryer, but amenities in general don't seem to have a huge impact on the asked price.
+
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 <b>Packages</b>: Pandas, Matplotlib, GeoPandas, json
 
