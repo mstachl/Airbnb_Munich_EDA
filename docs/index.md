@@ -21,11 +21,12 @@ The data contained heavy outliers (>5000 $ per night per listing). I excluded li
 
 ## Part 2: What neighborhoods are the most expensive/cheapest?
 
-In the map below we see the distribution of AirBnB listings on map of Munich. 
+Now I want to know, in case somebody wants to visit Munich but chose a cheaper optionen, where would he go? Can I give any recommendations for areas he might look at?
+In the map below we see the distribution of AirBnB listings on map of Munich.
 
 ![image](https://user-images.githubusercontent.com/8439378/156256021-5f4dd0cd-5296-49d3-be4d-881f86da04c5.png)
 
-How I want to know, in case somebody wants to visit Munich but chose a cheaper open, where would he go? Can I give any recommendations for areas he might look at?
+From the color coding it does not seem obvious right away that one district is in general more expensive than another one. So let us now have a look at the average price per person per district.
 
 ![image](https://user-images.githubusercontent.com/8439378/156255520-5331b2af-2879-4731-8bed-defc4425ac89.png)
 
