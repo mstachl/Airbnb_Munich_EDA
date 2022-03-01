@@ -44,6 +44,18 @@ Least expensive seem to be
 - Feldmoching-Hasenbergl (30$).
 
 This aligns well with the typical assumption that the city-center is often more expensive than the suburbs. Another reason might be that those regions tend to be close to the Oktoberfest area.
+Now we know that there in fact is some gradient between the different city districts. In fact the neighbourhood does seem to be a factor in terms of determining housing prices. The next
+
+## Part 3: During what time is the trip to Munich most/least expensive?
+The next question I asked myself is, if there might be a time where Munich in general is more expensive than at other times. In fact from hearsay I got to know that during the time of Oktoberfest Munich is generally overpriced. So let us have a look at the time curve for the average listing price.
+![image](https://user-images.githubusercontent.com/8439378/156264291-baca2c16-7fdf-4278-8417-7b7b1b9edd91.png)
+Plotting the data we see the following:
+
+- We obsorve a positive trend over the year, meaning increasing prices. In fact we have a general yearly increase of ~2.8%, presumably accounting for inflation.
+- There is asharp increases end of September until beginning of October. This increase end of September indeed indicates the effects of the famous Oktoberfest. It's Bierzelt-time!
+- The sharp peak at the end of Oktober was surprising to me at first, but after some research my educated guess is it's accounted to the [BAUMA](https://bauma.de/en/), the world's leading exposition for construction machinery.
+- We also see some kind of seasonality. A closer look suggests that housing prices in Munich **are lower on average by 2$ on Friday and Saturday compared to the remaining weekdays**, which is really surprising.
+
 
 ## Conclustion:
 
@@ -59,3 +71,6 @@ In this article, I took a look at housing prices from AirBnB using data gathered
 The findings here are observational, not the result of a formal study. So the real question remains:
 
 #### *Are you going to visit Munich in 2022 and if yes, do you plan to use AirBnB?*
+
+Cheers,
+![image](https://user-images.githubusercontent.com/8439378/156263912-e4a7a342-3409-47cd-ac5b-5552f22849fa.png)
