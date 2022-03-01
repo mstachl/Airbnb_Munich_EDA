@@ -49,6 +49,7 @@ Now we know that there in fact is some gradient between the different city distr
 ## Part 3: During what time is the trip to Munich most/least expensive?
 The next question I asked myself is, if there might be a time where Munich in general is more expensive than at other times. In fact from hearsay I got to know that during the time of Oktoberfest Munich is generally overpriced. So let us have a look at the time curve for the average listing price.
 ![image](https://user-images.githubusercontent.com/8439378/156264291-baca2c16-7fdf-4278-8417-7b7b1b9edd91.png)
+
 Plotting the data we see the following:
 
 - We obsorve a positive trend over the year, meaning increasing prices. In fact we have a general yearly increase of ~2.8%, presumably accounting for inflation.
