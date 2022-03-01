@@ -33,4 +33,4 @@ In this article, I took a look at housing prices from AirBnB using data gathered
 
 The findings here are observational, not the result of a formal study. So the real question remains:
 
-*<font size="4">*Are you going to visit Munich in 2022 and if yes, do you plan to use AirBnB?*</font>
+<font size="4">*Are you going to visit Munich in 2022 and if yes, do you plan to use AirBnB?*</font>
