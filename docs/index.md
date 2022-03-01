@@ -20,6 +20,30 @@ The dataset gathered was scraped on 24.12.2021 and contains 4641 AirBnB listings
 The data contained heavy outliers (>5000 $ per night per listing). I excluded listings using the [Inter Quartile Rule](https://en.wikipedia.org/wiki/Interquartile_range).
 
 ## Part 2: What neighborhoods are the most expensive/cheapest?
+
+In the map below we see the distribution of AirBnB listings on map of Munich. 
+
+![image](https://user-images.githubusercontent.com/8439378/156256021-5f4dd0cd-5296-49d3-be4d-881f86da04c5.png)
+
+How I want to know, in case somebody wants to visit Munich but chose a cheaper open, where would he go? Can I give any recommendations for areas he might look at?
+
+![image](https://user-images.githubusercontent.com/8439378/156255520-5331b2af-2879-4731-8bed-defc4425ac89.png)
+
+That is interesting. The most expensive areas in Munich seem to be
+
+- Altstadt-Lehel (48$ on avg.),
+- Ludwigsvorstadt-Isarvorstadt (44$),
+- Maxvorstadt (41$) and
+- Schwanthalerhöhe (40$).
+
+Least expensive seem to be
+
+- Sendling-Westpark,
+- Aubing-Lochhausen and
+- Feldmoching-Hasenbergl (30$).
+
+This aligns well with the typical assumption that the city-center is often more expensive than the suburbs. Another reason might be that those regions tend to be close to the Oktoberfest area.
+
 ## Conclustion:
 
 In this article, I took a look at housing prices from AirBnB using data gathered by insideAirBnB in Dezember 2021.
