@@ -73,4 +73,5 @@ The findings here are observational, not the result of a formal study. So the re
 #### *Are you going to visit Munich in 2022 and if yes, do you plan to use AirBnB?*
 
 Cheers,
+
 ![image](https://user-images.githubusercontent.com/8439378/156263912-e4a7a342-3409-47cd-ac5b-5552f22849fa.png)
