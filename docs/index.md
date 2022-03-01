@@ -1,6 +1,8 @@
-## Introduction
+# Staying in Munich - an AirBnB study
 
 ![image](https://user-images.githubusercontent.com/8439378/155898926-44037c38-630d-4cfb-89f4-5ebc7fd79d8a.png)
+
+## Introduction
 
 I am an avid traveller and often end up at AirBnBs when looking for cheap and individual accommodation during my trips. As I am fairly familiar with what to look for when am I go abroad to other countries but never you them in my own backyard, I want to dive into AirBnB data in my own hometown, Munich. For this project use data collected via [http://insideairbnb.com/munich](http://insideairbnb.com/munich/) to better understand:
 
