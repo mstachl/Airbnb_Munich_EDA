@@ -52,8 +52,8 @@ The next question I asked myself is, if there might be a time where Munich in ge
 
 Plotting the data we see the following:
 
-- We obsorve a positive trend over the year, meaning increasing prices. In fact we have a general yearly increase of ~2.8%, presumably accounting for inflation.
-- There is asharp increases end of September until beginning of October. This increase end of September indeed indicates the effects of the famous Oktoberfest. It's Bierzelt-time!
+- We observe a positive trend over the year, meaning increasing prices. In fact we have a general yearly increase of ~2.8%, presumably accounting for inflation.
+- There is asharp increases end of September until beginning of October. This time frame matches exactly with the famous Oktoberfest, unterlining the previous guess. It's Bierzelt-time!
 - The sharp peak at the end of Oktober was surprising to me at first, but after some research my educated guess is it's accounted to the [BAUMA](https://bauma.de/en/), the world's leading exposition for construction machinery.
 - We also see some kind of seasonality. A closer look suggests that housing prices in Munich **are lower on average by 2$ on Friday and Saturday compared to the remaining weekdays**, which is really surprising.
 
