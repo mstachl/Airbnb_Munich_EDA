@@ -31,7 +31,7 @@ From the dataset we can spot that rounded prices (30$, 40$, 50$ etc.) seem to be
 Now I want to know, in case somebody wants to visit Munich but chose a cheaper optionen, where would he go? Can I give any recommendations for areas he might look at?
 In the map below we see the distribution of AirBnB listings on map of Munich.
 
-![image](https://user-images.githubusercontent.com/8439378/156256021-5f4dd0cd-5296-49d3-be4d-881f86da04c5.png)
+![image](https://user-images.githubusercontent.com/8439378/156416890-0ace4860-68d3-4119-9db2-6809533fad82.png)
 
 From the color coding it does not seem obvious right away that one district is in general more expensive than another one. So let us now have a look at the average price per person per district.
 
