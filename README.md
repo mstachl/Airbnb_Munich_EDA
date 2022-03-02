@@ -28,6 +28,8 @@ For this project use data collected via http://insideairbnb.com/munich/ to bette
 >Provide data that quantifies the impact of short-term rentals on housing and residential communities; and also provides a platform to support advocacy for policies to protect our >cities from the impacts of short-term rentals.
 > -- <cite>Inside Airbnb</cite>
 
+The full blog post containing my results can be found [here](https://mstachl.github.io/Airbnb_Munich_EDA/).
+
 ## File Descriptions <a name="files"></a>
 
 There is a notebook available here focused on data retreival, data cleaning and exploratory data analysis.
