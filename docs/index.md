@@ -19,7 +19,12 @@ The dataset gathered was scraped on 24.12.2021 and contains 4641 AirBnB listings
 
 ## Part 1: How is the overall price level for staying in Munich?
 
-The data contained heavy outliers (>5000 $ per night per listing). I excluded listings using the [Inter Quartile Rule](https://en.wikipedia.org/wiki/Interquartile_range).
+The data contained heavy outliers (>5000 $ per night per listing). I excluded listings using the [Inter Quartile Rule](https://en.wikipedia.org/wiki/Interquartile_range). 
+
+From the dataset we can spot that rounded prices (30$, 40$, 50$ etc.) seem to be overrepresented. This might indicate that hosts prefer rounded prices instead of "uneven" prices. Besided that, the data seems to be right-skewed with a mean of around 38$ per night per person (see dashed line). The median is even lower at 35$ per night per person.
+
+![image](https://user-images.githubusercontent.com/8439378/156415719-b770df08-d632-4636-9cba-305390a0b1ba.png)
+
 
 ## Part 2: What neighborhoods are the most expensive/cheapest?
 
@@ -59,6 +64,15 @@ Plotting the data we see the following:
 - The sharp peak at the end of Oktober was surprising to me at first, but after some research my educated guess is it's accounted to the [BAUMA](https://bauma.de/en/), the world's leading exposition for construction machinery.
 - We also see some kind of seasonality. A closer look suggests that housing prices in Munich **are lower on average by 2$ on Friday and Saturday compared to the remaining weekdays**, which is really surprising.
 
+## Part 4: What are the most common amenities and are they influencing the overall price level?
+
+Seeing the graph below, the most frequent amenities offered in a listing are Wifi, a kitchen, heating and other essentials. 
+![image](https://user-images.githubusercontent.com/8439378/156413012-d4e0580c-e6c8-4fd9-bab8-52c9699ae23d.png)
+
+From the host's side of view, it is intiguing to know, if adding some "goodies" can actually positively influence the askable price for the host's listing. So let us have a look at the correlation coefficients between price and the most influencial amenities.
+![image](https://user-images.githubusercontent.com/8439378/156413350-5c2cf6b0-8be9-4c35-8acf-8543141e239f.png)
+
+From the graph above we see that people tend to favor safe houses (security camera, aafe) and well-equiped homes (elevator, gym, HDTV, air conditioning etc.) and also tend to pay a little extra for these conveniences. Nevertheless these conclusions need to be treated with care, as none of the amenities seem to have a statisticallly significant effect on the price.
 
 ## Conclustion:
 
