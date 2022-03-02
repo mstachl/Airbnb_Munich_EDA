@@ -11,7 +11,7 @@ I am an avid traveller and often end up at AirBnBs when looking for cheap and in
   3. During what time is the trip to Munich most/least expensive?
   4. What are the most common amenities and are they influencing the overall price level?
 
->InsideAirbnb is a mission driven activist project with the objective to: Provide data that quantifies the impact of short-term rentals on housing and residential communities; >and also provides a platform to support advocacy for policies to protect our cities from the impacts of short-term rentals.
+> InsideAirbnb is a mission driven activist project with the objective to: Provide data that quantifies the impact of short-term rentals on housing and residential communities; > and also provides a platform to support advocacy for policies to protect our cities from the impacts of short-term rentals.
 >
 > -- <cite>Inside Airbnb</cite>
 
