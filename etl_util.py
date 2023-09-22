@@ -15,7 +15,7 @@ def getAirbnbUrls():
         cells = row.findAll('td')
         if '.gz' not in str(cells[1]):
             urls.append(cells[1].findAll('a', href=True)[0].get('href'))
-    print(urls)
+    print("Found urls: {}".format(urls))
     return urls
     
 
@@ -23,10 +23,11 @@ def extract(url: str, saveTo: str):
     print("Extract file from {}".format(url))
     response = requests.get(url)
     open(saveTo, 'wb').write(response.content)
-    print("Safed to file {}".format(url, saveTo))
+    print("Safed to file {}".format(saveTo))
 
 def extractAll(urls: []):
     for url in urls:
-        filename_orig = url.split('/')[-1].split('.')
-        saveTo = "imported/{}_downloaded{}".format(filename_orig[0], filename_orig[-1])
+        filename_orig = url.split('/')[-1]
+        filename, extension = filename_orig.split('.')
+        saveTo = "imported/{}_downloaded{}".format(filename, ".{}".format(extension))
         extract(url, saveTo)
