@@ -29,5 +29,9 @@ def extractAll(urls: []):
     for url in urls:
         filename_orig = url.split('/')[-1]
         filename, extension = filename_orig.split('.')
-        saveTo = "imported/{}_downloaded{}".format(filename, ".{}".format(extension))
+        saveTo = "latest_download/{}_latest{}".format(filename, ".{}".format(extension))
         extract(url, saveTo)
+
+if __name__ == '__main__':
+    urls = getAirbnbUrls()
+    extractAll(urls)
